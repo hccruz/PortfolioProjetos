@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+*.csv
+*.pdf
+Include/
+Lib/
+Scripts/
+*.pyc
+*.cfg
+*.zip
+*.txt
+women_fashion/
+AnaliseMercaoVeiculosEletricos/Electric_Vehicle_Population_Data/
